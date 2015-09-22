@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Indigo 500-->
+    <color name="primary_500">#00BCD4</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#0097A7</color>
+    <!--Pink 500-->
+    <color name="accent_500">#E91E63</color>
+    <!--Pink 700-->
+    <color name="accent_700">#C2185B</color>
+
+    <!--<color name="black_semi_transparent">#B2000000</color>-->
+    <!--<color name="background">#e5e5e5</color>-->
+    <!--<color name="half_black">#808080</color>-->
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#E91E63</color>
+    <color name="pink_pressed">#C2185B</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_pressed">#1B5E20</color>
+    <color name="orange">#FF9800</color>
+    <color name="orange_pressed">#E65100</color>
+
+</resources>

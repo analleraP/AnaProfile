@@ -1,0 +1,32 @@
+[
+  {
+    "image": "atresplayer",
+    "name": "Atresplayer",
+    "company": "ATRESMEDIA",
+    "url": "com.a3.sgt"
+  },
+  {
+    "image": "bebee",
+    "name": "beBee - Affinity Networking",
+    "company": "BEBEE",
+    "url": "com.bebee.android.hive"
+  },
+  {
+    "image": "disney",
+    "name": "Disney Channel Replay",
+    "company": "ATRESMEDIA",
+    "url": "com.disney.disneychannelreplay_goo&hl=es"
+  },
+  {
+    "image": "conecta",
+    "name": "Atresmedia Conecta",
+    "company": "ATRESMEDIA",
+    "url": "com.intelygenz.agm28.a3interaction"
+  },
+  {
+    "image": "melodiafm",
+    "name": "Melodía FM",
+    "company": "ATRESMEDIA",
+    "url": "com.i3television.melodiafm"
+  }
+]
