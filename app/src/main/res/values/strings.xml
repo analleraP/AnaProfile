@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Ana\'s Profile</string>
-    <string name="phone_number">+34633500380</string>
-    <string name="email">ana.elisa.llera@gmail.com</string>
+    <string name="phone_number">+xx xxx xxx xxx</string>
+    <string name="email">email address here</string>
     <string name="intent_phone_error">There are no phone call applications installed.</string>
     <string name="intent_mail_error">There are no email applications installed.</string>
     <string name="intent_mail_title">Send mail</string>
-    <string name="owner">Ana Elisa Llera</string>
+    <string name="owner">Name</string>
     <string name="owner_title">Android / iOS Developer</string>
 </resources>
